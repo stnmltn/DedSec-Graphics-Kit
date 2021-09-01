@@ -1,0 +1,1 @@
+<p align="center"><img src="https://i.imgur.com/Fhmk3Ry.png" alt="DedSec" /></p>
